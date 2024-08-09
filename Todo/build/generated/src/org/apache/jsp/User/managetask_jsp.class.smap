@@ -1,0 +1,19 @@
+SMAP
+managetask_jsp.java
+JSP
+*S JSP
+*F
++ 0 managetask.jsp
+User/managetask.jsp
+*L
+1,18:54
+18:71,2
+19,19:73
+37:122,11
+38:133
+39,5:134,3
+44,5:149
+49:154,3
+50,5:157
+54,11:94
+*E
